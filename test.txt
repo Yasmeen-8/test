@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>
+hey
+</title>
+</head>
+<body bgcolor='lightgrey'>
+
+<p align="center"> something something something something something </p> <br> <br>
+
+<table bgcolor='C6C6C6' align="center" width="1050">
+<tr>
+<td>
+
+<table bgcolor='#EFEFEF' align="center">
+
+<tr>
+<th> <h1> row 1 cell 1 </h1> </th>
+</tr>
+
+<tr>
+<td align="center"> 
+<img src="2070.gif"> <br><br><br>
+text text etx text ext tex t <br>
+even more text <br><br><br>
+</td>
+</tr>
+
+<tr>
+<td>
+
+<h1> > <A HREF="slay.html">    ==>  </A> </h1>
+</td>
+</tr>
+
+
+</table>
+
+</td>
+</tr>
+</table>
+
+<p align="center"> 
+<br>blah blah blah blah
+</p>
+
+</body>
+</html>
